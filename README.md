@@ -1,5 +1,5 @@
 # Vincent Cupid M. Tabiongan
-    ITC& - The Internet and Web Application
+    ITC7 - The Internet and Web Application
     ID: 2132266
     SCHED: TTH
     
